@@ -28,7 +28,7 @@
     "react-quill": "^2.0.0",
     "sharp": "^0.32.0",
     "swiper": "^8.4.5",
-    "universal-cookie": "^4.0.4"
+    "universal-cookie": "^7.0.0"
   },
   "devDependencies": {
     "@types/node": "20.9.2",
